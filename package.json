@@ -1,6 +1,6 @@
 {
   "name": "saiodgm-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Saiodgm 的静态网页文件包",
   "main": "index.js",
   "scripts": {
