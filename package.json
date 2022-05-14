@@ -1,7 +1,7 @@
 {
   "name": "saiodgm-files",
   "version": "1.0.6",
-  "description": "Saiodgm 的静态网页文件包",
+  "description": "Saiodgm 的静态资源包",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
